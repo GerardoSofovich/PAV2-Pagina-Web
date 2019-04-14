@@ -1,0 +1,6 @@
+P:\Visual Estudio\ProyectoPAVII-Egeo\ProyectoPAVII-Egeo\bin\ProyectoPAVII-Egeo.dll.config
+P:\Visual Estudio\ProyectoPAVII-Egeo\ProyectoPAVII-Egeo\bin\ProyectoPAVII-Egeo.dll
+P:\Visual Estudio\ProyectoPAVII-Egeo\ProyectoPAVII-Egeo\bin\ProyectoPAVII-Egeo.pdb
+P:\Visual Estudio\ProyectoPAVII-Egeo\ProyectoPAVII-Egeo\obj\Debug\ProyectoPAVII-Egeo.csprojResolveAssemblyReference.cache
+P:\Visual Estudio\ProyectoPAVII-Egeo\ProyectoPAVII-Egeo\obj\Debug\ProyectoPAVII-Egeo.dll
+P:\Visual Estudio\ProyectoPAVII-Egeo\ProyectoPAVII-Egeo\obj\Debug\ProyectoPAVII-Egeo.pdb
